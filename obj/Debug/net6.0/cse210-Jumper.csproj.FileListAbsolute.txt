@@ -1,0 +1,5 @@
+/Users/mainlyme/Documents/GitHub/cse210-Jumper/obj/Debug/net6.0/cse210-Jumper.csproj.AssemblyReference.cache
+/Users/mainlyme/Documents/GitHub/cse210-Jumper/obj/Debug/net6.0/cse210-Jumper.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mainlyme/Documents/GitHub/cse210-Jumper/obj/Debug/net6.0/cse210-Jumper.AssemblyInfoInputs.cache
+/Users/mainlyme/Documents/GitHub/cse210-Jumper/obj/Debug/net6.0/cse210-Jumper.AssemblyInfo.cs
+/Users/mainlyme/Documents/GitHub/cse210-Jumper/obj/Debug/net6.0/cse210-Jumper.csproj.CoreCompileInputs.cache
