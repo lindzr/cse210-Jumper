@@ -9,13 +9,25 @@
 
 class Guesses{
     List<string> previousGuesses = new List<string>;
-    string word = GetWord();
-    string letter = GetLetter();
+    //insert getter from Words class to retrieve the word and letter/guess
+    public string word = GetWord();
+    public string letter = GetLetter();
+    public int numLetters = 0; 
 
-    do
+    public bool GuessIsCorrect()
     {
-        previousGuesses.Add(letter);
-    } 
-    while (word.contains(letter));
+        do
+        {
+            numLetters = numLetters + 1;
+            previousGuesses.Add(letter);
+        } 
+        while (word.contains(letter));
 
+        return numLetters;
+    }
+
+    //make a method to return a bool if guess is correct
+    //make a method to return the number of instances the letter appears in the word
+    //find index at which the letter occurs
+    
 }
