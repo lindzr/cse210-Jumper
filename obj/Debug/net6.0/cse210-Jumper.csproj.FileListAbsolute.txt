@@ -1,0 +1,5 @@
+C:\Users\Brooklyn\Documents\fall22 vscode\cse210\cse210-Jumper\obj\Debug\net6.0\cse210-Jumper.csproj.AssemblyReference.cache
+C:\Users\Brooklyn\Documents\fall22 vscode\cse210\cse210-Jumper\obj\Debug\net6.0\cse210-Jumper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brooklyn\Documents\fall22 vscode\cse210\cse210-Jumper\obj\Debug\net6.0\cse210-Jumper.AssemblyInfoInputs.cache
+C:\Users\Brooklyn\Documents\fall22 vscode\cse210\cse210-Jumper\obj\Debug\net6.0\cse210-Jumper.AssemblyInfo.cs
+C:\Users\Brooklyn\Documents\fall22 vscode\cse210\cse210-Jumper\obj\Debug\net6.0\cse210-Jumper.csproj.CoreCompileInputs.cache
