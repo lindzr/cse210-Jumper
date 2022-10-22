@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Brooklyn\\.nuget\\packages\\": {}
+    "/Users/mainlyme/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Brooklyn\\Documents\\fall22 vscode\\cse210\\cse210-Jumper\\cse210-Jumper.csproj",
+      "projectUniqueName": "/Users/mainlyme/Documents/GitHub/cse210-Jumper/cse210-Jumper.csproj",
       "projectName": "cse210-Jumper",
-      "projectPath": "C:\\Users\\Brooklyn\\Documents\\fall22 vscode\\cse210\\cse210-Jumper\\cse210-Jumper.csproj",
-      "packagesPath": "C:\\Users\\Brooklyn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Brooklyn\\Documents\\fall22 vscode\\cse210\\cse210-Jumper\\obj\\",
+      "projectPath": "/Users/mainlyme/Documents/GitHub/cse210-Jumper/cse210-Jumper.csproj",
+      "packagesPath": "/Users/mainlyme/.nuget/packages/",
+      "outputPath": "/Users/mainlyme/Documents/GitHub/cse210-Jumper/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Brooklyn\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/mainlyme/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
       }
     }
   }
