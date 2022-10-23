@@ -5,6 +5,7 @@
 
 class Board {
 
+//create visual board to display to user 
 private List<List<string>> parachute;
 private string wordspaces;
 
@@ -12,25 +13,8 @@ public string WordSpaces {
     get {return this.wordspaces;} 
     set {this.wordspaces = "";}
 }
-public List<List<<string>> Parachute {
-    get {return this.parachute;}
-    set {this.parachute = ("_","_","_",
-        "/","_","_","_","'\'",
-        "'\'"," "," "," ","/",
-        "'\'"," ","/",
-        "O",
-        "/","|","'\'",
-        "/"," ","'\'",
-        "          ",
-        "^","^","^","^","^","^","^")}
-}
-
-
-
-
-//create visual board to display to user 
 static void createParachute() {
-        new List<List<string>> parachute;
+        public new List<List<string>> parachute;
         ("_","_","_"),
         ("/","_","_","_","'\'"),
         ("'\'"," "," "," ","/"),
