@@ -55,6 +55,7 @@ public string WordSpaces {
     set {
         wordSpaces = 
     }
+}
 
 
 static string GetWordSpaces() {
@@ -76,9 +77,5 @@ static string GetWordSpaces() {
 
 //game over WHEN word is completed correctly and parachute still exists 
 
-
-
-
 }
-
 
