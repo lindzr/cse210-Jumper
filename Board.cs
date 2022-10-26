@@ -6,24 +6,21 @@
 class Board {
 
 //create visual board to display to user 
-private List<List<string>> parachute;
+// private List<List<string>> parachute;
 private string wordspaces;
-
-public string WordSpaces {
-    get {return this.wordspaces;} 
-    set {this.wordspaces = "";}
 }
 static void createParachute() {
-        public new List<List<string>> parachute;
+        string[] parachute = {
         ("_","_","_"),
-        ("/","_","_","_","'\'"),
-        ("'\'"," "," "," ","/"),
-        ("'\'"," ","/"),
+        ("/","_","_","_","\\"),
+        ("\\"," "," "," ","/"),
+        ("\\"," ","/"),
         ("O"),
-        ("/","|","'\'"),
-        ("/"," ","'\'"),
+        ("/","|","\\"),
+        ("/"," ","\\"),
         ("          "),
-        ("^","^","^","^","^","^","^")
+        ("^","^","^","^","^","^","^")};
+
         Console.WriteLine(parachute);
     }
     
@@ -33,13 +30,8 @@ static void createParachute() {
 private string wordSpaces;
 
 public string WordSpaces {
-    get {
-        return wordSpaces;
-    }
-    set {
-        wordSpaces = 
-    }
-}
+    get {return this.wordSpaces;} 
+    set {this.wordSpaces = "";}
 
 
 static string GetWordSpaces() {
