@@ -3,3 +3,13 @@
 /Users/mainlyme/Documents/GitHub/cse210-Jumper/obj/Debug/net6.0/cse210-Jumper.AssemblyInfoInputs.cache
 /Users/mainlyme/Documents/GitHub/cse210-Jumper/obj/Debug/net6.0/cse210-Jumper.AssemblyInfo.cs
 /Users/mainlyme/Documents/GitHub/cse210-Jumper/obj/Debug/net6.0/cse210-Jumper.csproj.CoreCompileInputs.cache
+/Users/mainlyme/Documents/GitHub/cse210-Jumper/bin/Debug/net6.0/cse210-Jumper
+/Users/mainlyme/Documents/GitHub/cse210-Jumper/bin/Debug/net6.0/cse210-Jumper.deps.json
+/Users/mainlyme/Documents/GitHub/cse210-Jumper/bin/Debug/net6.0/cse210-Jumper.runtimeconfig.json
+/Users/mainlyme/Documents/GitHub/cse210-Jumper/bin/Debug/net6.0/cse210-Jumper.dll
+/Users/mainlyme/Documents/GitHub/cse210-Jumper/bin/Debug/net6.0/cse210-Jumper.pdb
+/Users/mainlyme/Documents/GitHub/cse210-Jumper/obj/Debug/net6.0/cse210-Jumper.dll
+/Users/mainlyme/Documents/GitHub/cse210-Jumper/obj/Debug/net6.0/refint/cse210-Jumper.dll
+/Users/mainlyme/Documents/GitHub/cse210-Jumper/obj/Debug/net6.0/cse210-Jumper.pdb
+/Users/mainlyme/Documents/GitHub/cse210-Jumper/obj/Debug/net6.0/cse210-Jumper.genruntimeconfig.cache
+/Users/mainlyme/Documents/GitHub/cse210-Jumper/obj/Debug/net6.0/ref/cse210-Jumper.dll
